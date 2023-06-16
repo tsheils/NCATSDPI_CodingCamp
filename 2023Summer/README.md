@@ -16,8 +16,9 @@ The camp will be capped to 12 participants.
 
 ### Teaching Assistants:
 Each participant will be choosing a teaching assistant (TA) to work with for the entire 8 weeks. Here are the TAs for this round:
-- Andy Patt
+
 - Tim Sheils
+- Andy Patt
 - Mark Willliams
 - Kyle Spencer
 - Ewy Mathe
